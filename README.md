@@ -2,7 +2,7 @@
 Image Processing Drone
 
 Done in cooperation with Zachary Agness, Leo Leal, and June Chen
-Advised by Mahdi Maaref and John Agness
+Advised by Mahdi Maaref and John Agness.
 UCI capstone senior design project (September 2019 - March 2020)
 
 The U.S. Navy outlined a project entailing a drone that could do any type of image proceessing during flight.
