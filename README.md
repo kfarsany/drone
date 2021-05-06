@@ -9,3 +9,6 @@ The U.S. Navy outlined a project entailing a drone that could do any type of ima
 This repository contains two important aspects of the drone's software: GUI and Arduino communications from drone to computer.
 Some items are experimental, such as voice commands and advanced mapping functions.
 The physical drone/hardware resides with Zachary Agness.  This software only works with that drone, as both hardware and software were done from scratch.
+
+Run /gui/KivyMain.py in order to see the program.
+Unfortunately, data is only sent from the program when the drone is turned on and within a 200ft radius.
